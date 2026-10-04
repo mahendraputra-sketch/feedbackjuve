@@ -1,0 +1,6 @@
+{
+  "name": "JUVE JUICE Feedback & Keluhan Layanan",
+  "description": "Formulir evaluasi kepuasan dan penanganan keluhan pelanggan JUVE JUICE New Food Terrace The Taman Dayu terintegrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
